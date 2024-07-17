@@ -1,0 +1,5 @@
+../Core/Src/elec.c:34:6:TIM1_UP_TIM10_IRQHandler	4	static
+../Core/Src/elec.c:50:6:TIM1_BRK_TIM9_IRQHandler	4	static
+../Core/Src/elec.c:64:6:FloatState	24	static
+../Core/Src/elec.c:70:6:Current_steering	24	static
+../Core/Src/elec.c:76:9:elecstimulation	8	static

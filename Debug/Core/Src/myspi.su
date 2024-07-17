@@ -1,0 +1,2 @@
+../Core/Src/myspi.c:19:6:MySPI_SendByte2AD5726	16	static,ignoring_inline_asm
+../Core/Src/myspi.c:57:6:MySPI_SendByte2max5388	16	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+../Core/Src/main.c:110:6:TIM2_IRQHandler	8	static
+../Core/Src/main.c:140:6:TIM1_TRG_COM_TIM11_IRQHandler	4	static
+../Core/Src/main.c:159:5:main	64	static
+../Core/Src/main.c:689:6:SystemClock_Config	88	static
+../Core/Src/main.c:749:6:Error_Handler	4	static,ignoring_inline_asm

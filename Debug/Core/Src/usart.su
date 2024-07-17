@@ -1,0 +1,8 @@
+../Core/Src/usart.c:45:6:USART3_IRQHandler	8	static
+../Core/Src/usart.c:112:6:MX_USART3_UART_Init	8	static
+../Core/Src/usart.c:142:6:HAL_UART_MspInit	192	static
+../Core/Src/usart.c:185:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:212:9:getCmd	16	static,ignoring_inline_asm
+../Core/Src/usart.c:227:6:sendValueThroughUART	56	dynamic
+../Core/Src/usart.c:239:6:parseCmd_O	32	static
+../Core/Src/usart.c:290:6:parseCmd_E	32	static

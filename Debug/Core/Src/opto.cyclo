@@ -1,0 +1,6 @@
+../Core/Src/opto.c:15:6:FixState	1
+../Core/Src/opto.c:22:6:ForwardState	1
+../Core/Src/opto.c:29:6:ReverseState	1
+../Core/Src/opto.c:39:6:TIM8_UP_TIM13_IRQHandler	3
+../Core/Src/opto.c:55:6:TIM8_BRK_TIM12_IRQHandler	9
+../Core/Src/opto.c:86:9:optostimulation	5

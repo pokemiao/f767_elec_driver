@@ -1,0 +1,5 @@
+../Core/Src/elec.c:34:6:TIM1_UP_TIM10_IRQHandler	3
+../Core/Src/elec.c:50:6:TIM1_BRK_TIM9_IRQHandler	3
+../Core/Src/elec.c:64:6:FloatState	1
+../Core/Src/elec.c:70:6:Current_steering	1
+../Core/Src/elec.c:76:9:elecstimulation	7
